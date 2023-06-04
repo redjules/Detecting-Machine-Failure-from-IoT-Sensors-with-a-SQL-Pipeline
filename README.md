@@ -1,0 +1,1 @@
+# Detecting-Machine-Failure-from-IoT-Sensors-with-a-SQL-Pipeline
